@@ -1,5 +1,5 @@
 # ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690) AntiRaid com Mongoose e MegaDB ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690)
-Uma source simples e aberta de anti raid criada para auxiliar os usuários com a proteção de seus servidores.
+Uma source simples e aberta de Anti Raid criada para auxiliar os usuários com a proteção de seus servidores. Esse projeto possui também um sistema exclusivo de exceções, em que o dono do servidor pode adicionar usuários para usarem seus comandos **não principais** através do comando `/antiraid exception <user>`, e a lista de exceções adicionadas pelo comando `/antiraid list`.
 
 ### 📁 Sessões
 - 📦 [Dependências](#dependences)
